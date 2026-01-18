@@ -1,16 +1,443 @@
 [
     {
-        "id": "sdnet_1",
-        "dns": "28.0.0.1",
-        "redirectUrl": "http://desainter.net/login",
-        "label": "SDNET Hotspot",
+        "id": "pasput",
+        "dns": "22.0.0.1",
+        "redirectUrl": "http://pasput.net/login",
+        "label": "PASPUT",
         "isEnabled": true
     },
     {
-        "id": "sdnet_2",
-        "dns": "60.60.0.1",
-        "redirectUrl": "http://satset.net/login",
-        "label": "SDNET Gateway",
+        "id": "pasarsabtu",
+        "dns": "23.0.0.1",
+        "redirectUrl": "http://pasarsabtu.net/login",
+        "label": "Pasar Sabtu",
+        "isEnabled": true
+    },
+    {
+        "id": "hasya",
+        "dns": "24.0.0.1",
+        "redirectUrl": "http://hasya.net/login",
+        "label": "Hasya",
+        "isEnabled": true
+    },
+    {
+        "id": "gardubarat",
+        "dns": "27.0.0.1",
+        "redirectUrl": "http://gardubarat.net/login",
+        "label": "Gardu Barat",
+        "isEnabled": true
+    },
+    {
+        "id": "warsab",
+        "dns": "30.0.0.1",
+        "redirectUrl": "http://warsab.net/login",
+        "label": "Warsab",
+        "isEnabled": true
+    },
+    {
+        "id": "tamantugu",
+        "dns": "32.0.0.1",
+        "redirectUrl": "http://tamantugu.net/login",
+        "label": "Taman Tugu",
+        "isEnabled": true
+    },
+    {
+        "id": "aliman",
+        "dns": "33.0.0.1",
+        "redirectUrl": "http://aliman.net/login",
+        "label": "Aliman",
+        "isEnabled": true
+    },
+    {
+        "id": "odong",
+        "dns": "34.0.0.1",
+        "redirectUrl": "http://odong.net/login",
+        "label": "Odong",
+        "isEnabled": true
+    },
+    {
+        "id": "cimangir",
+        "dns": "35.0.0.1",
+        "redirectUrl": "http://cimangir.net/login",
+        "label": "Cimangir",
+        "isEnabled": true
+    },
+    {
+        "id": "cisaer",
+        "dns": "36.0.0.1",
+        "redirectUrl": "http://cisaer.net/login",
+        "label": "Cisaer",
+        "isEnabled": true
+    },
+    {
+        "id": "nagrak",
+        "dns": "37.0.0.1",
+        "redirectUrl": "http://nagrak.net/login",
+        "label": "Nagrak",
+        "isEnabled": true
+    },
+    {
+        "id": "tegalsalam",
+        "dns": "41.0.0.1",
+        "redirectUrl": "http://tegalsalam.net/login",
+        "label": "Tegal Salam",
+        "isEnabled": true
+    },
+    {
+        "id": "ciaruten",
+        "dns": "43.0.0.1",
+        "redirectUrl": "http://ciaruten.net/login",
+        "label": "Ciaruten",
+        "isEnabled": true
+    },
+    {
+        "id": "yamin",
+        "dns": "46.0.0.1",
+        "redirectUrl": "http://yamin.net/login",
+        "label": "Yamin",
+        "isEnabled": true
+    },
+    {
+        "id": "cimangir2",
+        "dns": "48.0.0.1",
+        "redirectUrl": "http://cimangir.net/login",
+        "label": "Cimangir 2",
+        "isEnabled": true
+    },
+    {
+        "id": "cbc",
+        "dns": "51.0.0.1",
+        "redirectUrl": "http://cbc.net/login",
+        "label": "CBC",
+        "isEnabled": true
+    },
+    {
+        "id": "badawi",
+        "dns": "52.0.0.1",
+        "redirectUrl": "http://badawi.net/login",
+        "label": "Badawi",
+        "isEnabled": true
+    },
+    {
+        "id": "tayo",
+        "dns": "53.0.0.1",
+        "redirectUrl": "http://tayo.net/login",
+        "label": "Tayo",
+        "isEnabled": true
+    },
+    {
+        "id": "karacak",
+        "dns": "54.0.0.1",
+        "redirectUrl": "http://karacak.net/login",
+        "label": "Karacak",
+        "isEnabled": true
+    },
+    {
+        "id": "kamsuk",
+        "dns": "55.0.0.1",
+        "redirectUrl": "http://kamsuk.net/login",
+        "label": "Pak Husni",
+        "isEnabled": true
+    },
+    {
+        "id": "rifal",
+        "dns": "57.0.0.1",
+        "redirectUrl": "http://rifal.net/login",
+        "label": "Rifal",
+        "isEnabled": true
+    },
+    {
+        "id": "cibeber",
+        "dns": "58.0.0.1",
+        "redirectUrl": "http://cibeber.net/login",
+        "label": "Cibeber",
+        "isEnabled": true
+    },
+    {
+        "id": "cijantur",
+        "dns": "59.0.0.1",
+        "redirectUrl": "http://cijantur.net/login",
+        "label": "Cijantur",
+        "isEnabled": true
+    },
+    {
+        "id": "sumpung",
+        "dns": "60.0.0.1",
+        "redirectUrl": "http://sumpung.net/login",
+        "label": "Sumpung",
+        "isEnabled": true
+    },
+    {
+        "id": "tonjong",
+        "dns": "61.0.0.1",
+        "redirectUrl": "http://tonjong.net/login",
+        "label": "Tonjong",
+        "isEnabled": true
+    },
+    {
+        "id": "tegalsari",
+        "dns": "62.0.0.1",
+        "redirectUrl": "http://tegalsari.net/login",
+        "label": "Ciko",
+        "isEnabled": true
+    },
+    {
+        "id": "cikadu",
+        "dns": "63.0.0.1",
+        "redirectUrl": "http://cikadu.net/login",
+        "label": "Cikadu",
+        "isEnabled": true
+    },
+    {
+        "id": "cibungbulang",
+        "dns": "64.0.0.1",
+        "redirectUrl": "http://cibungbulang.net/login",
+        "label": "Cibungbulang",
+        "isEnabled": true
+    },
+    {
+        "id": "megakalurahan",
+        "dns": "65.0.0.1",
+        "redirectUrl": "http://memey.net/login",
+        "label": "Mega Kalurahan",
+        "isEnabled": true
+    },
+    {
+        "id": "tokomulia",
+        "dns": "15.0.0.1",
+        "redirectUrl": "http://tokomulia.net/login",
+        "label": "Toko Mulia",
+        "isEnabled": true
+    },
+    {
+        "id": "tokomulia2",
+        "dns": "19.0.0.1",
+        "redirectUrl": "http://tokomulia2.net/login",
+        "label": "Samsul",
+        "isEnabled": true
+    },
+    {
+        "id": "desainter",
+        "dns": "177.0.0.1",
+        "redirectUrl": "http://desainter.net/login",
+        "label": "Desa Internet",
+        "isEnabled": true
+    },
+    {
+        "id": "hambaro",
+        "dns": "178.0.0.1",
+        "redirectUrl": "http://hambaro.net/login",
+        "label": "Hambaro",
+        "isEnabled": true
+    },
+    {
+        "id": "cibereum",
+        "dns": "179.0.0.1",
+        "redirectUrl": "http://ciberem.net/login",
+        "label": "Cibereum",
+        "isEnabled": true
+    },
+    {
+        "id": "kalurahan",
+        "dns": "180.0.0.1",
+        "redirectUrl": "http://kalurahan.net/login",
+        "label": "Kalurahan",
+        "isEnabled": true
+    },
+    {
+        "id": "pasirmadin",
+        "dns": "172.19.0.1",
+        "redirectUrl": "http://pasirmadin.net/login",
+        "label": "Pasir Madin",
+        "isEnabled": true
+    },
+    {
+        "id": "sukaluyu",
+        "dns": "172.19.2.1",
+        "redirectUrl": "http://sukaluyu.net/login",
+        "label": "Sukaluyu",
+        "isEnabled": true
+    },
+    {
+        "id": "setdeng",
+        "dns": "172.19.4.1",
+        "redirectUrl": "http://setdeng.net/login",
+        "label": "Setdeng",
+        "isEnabled": true
+    },
+    {
+        "id": "citeng",
+        "dns": "172.19.6.1",
+        "redirectUrl": "http://citeng.net/login",
+        "label": "Citeng",
+        "isEnabled": true
+    },
+    {
+        "id": "citong",
+        "dns": "172.19.8.1",
+        "redirectUrl": "http://citong.net/login",
+        "label": "Citong",
+        "isEnabled": true
+    },
+    {
+        "id": "pasirhihid",
+        "dns": "172.19.10.1",
+        "redirectUrl": "http://pasirhihid.net/login",
+        "label": "Pasir Hihid",
+        "isEnabled": true
+    },
+    {
+        "id": "cidudut",
+        "dns": "172.19.12.1",
+        "redirectUrl": "http://cidudut.net/login",
+        "label": "Cidudut",
+        "isEnabled": true
+    },
+    {
+        "id": "pbt",
+        "dns": "172.19.14.1",
+        "redirectUrl": "http://pbt.net/login",
+        "label": "PBT",
+        "isEnabled": true
+    },
+    {
+        "id": "kalong",
+        "dns": "172.16.29.1",
+        "redirectUrl": "http://kalong.net/login",
+        "label": "Kalong",
+        "isEnabled": true
+    },
+    {
+        "id": "lkt",
+        "dns": "172.19.18.1",
+        "redirectUrl": "http://lkt.net/login",
+        "label": "LKT",
+        "isEnabled": true
+    },
+    {
+        "id": "kemang",
+        "dns": "172.19.20.1",
+        "redirectUrl": "http://kemang.net/login",
+        "label": "Kemang",
+        "isEnabled": true
+    },
+    {
+        "id": "ciwar",
+        "dns": "172.19.22.1",
+        "redirectUrl": "http://ciwar.net/login",
+        "label": "Ciwar",
+        "isEnabled": true
+    },
+    {
+        "id": "peteuy3",
+        "dns": "172.19.24.1",
+        "redirectUrl": "http://desainter.net/login",
+        "label": "Peteuy 3",
+        "isEnabled": true
+    },
+    {
+        "id": "kirayam",
+        "dns": "172.18.253.1",
+        "redirectUrl": "http://kirayam.net/login",
+        "label": "Kirayam",
+        "isEnabled": true
+    },
+    {
+        "id": "cigudeg",
+        "dns": "172.18.251.1",
+        "redirectUrl": "http://desainter.net/login",
+        "label": "Cigudeg",
+        "isEnabled": true
+    },
+    {
+        "id": "manglid",
+        "dns": "172.18.243.1",
+        "redirectUrl": "http://manglid.net/login",
+        "label": "Manglid",
+        "isEnabled": true
+    },
+    {
+        "id": "cogreg",
+        "dns": "172.18.239.1",
+        "redirectUrl": "http://cogreg.net/login",
+        "label": "Cogreg",
+        "isEnabled": true
+    },
+    {
+        "id": "tapos",
+        "dns": "172.18.221.1",
+        "redirectUrl": "http://tapos.net/login",
+        "label": "Tapos",
+        "isEnabled": true
+    },
+    {
+        "id": "parmun",
+        "dns": "172.18.211.1",
+        "redirectUrl": "http://parmun.net/login",
+        "label": "Parmun",
+        "isEnabled": true
+    },
+    {
+        "id": "wates",
+        "dns": "172.18.203.1",
+        "redirectUrl": "http://wates.net/login",
+        "label": "Wates",
+        "isEnabled": true
+    },
+    {
+        "id": "taposbawah",
+        "dns": "172.18.201.1",
+        "redirectUrl": "http://taposbawah.net/login",
+        "label": "Tapos Bawah",
+        "isEnabled": true
+    },
+    {
+        "id": "lanatul",
+        "dns": "172.18.199.1",
+        "redirectUrl": "http://lanatul.net/login",
+        "label": "Lanatul",
+        "isEnabled": true
+    },
+    {
+        "id": "pangkaljaya",
+        "dns": "172.18.197.1",
+        "redirectUrl": "http://desainter.net/login",
+        "label": "Pangkal Jaya",
+        "isEnabled": true
+    },
+    {
+        "id": "sadengpaku",
+        "dns": "172.18.195.1",
+        "redirectUrl": "http://sadengpaku.net/login",
+        "label": "Sadeng Paku",
+        "isEnabled": true
+    },
+    {
+        "id": "sadpekjalan",
+        "dns": "172.18.193.1",
+        "redirectUrl": "http://sadpekjalan.net/login",
+        "label": "Sadpek Jalan",
+        "isEnabled": true
+    },
+    {
+        "id": "huntap",
+        "dns": "172.18.191.1",
+        "redirectUrl": "http://huntap.net/login",
+        "label": "Huntap",
+        "isEnabled": true
+    },
+    {
+        "id": "pondokbujang",
+        "dns": "172.18.189.1",
+        "redirectUrl": "http://alma.net/login",
+        "label": "Pondok Bujang",
+        "isEnabled": true
+    },
+    {
+        "id": "baru",
+        "dns": "192.168.25.1",
+        "redirectUrl": "http://desainter.net/login",
+        "label": "Baru",
         "isEnabled": true
     }
 ]
